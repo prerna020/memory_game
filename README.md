@@ -1,4 +1,4 @@
-# 🧠 Memory Match Game (Emoji Edition)
+# 🧠 Memory Game
 
 A fun and interactive **Memory Card Matching Game** built using **HTML, CSS, and JavaScript**.  
 Test your memory skills by flipping cards and finding matching emoji pairs — with real-time **timer**, **move counter**, and **win detection**!
